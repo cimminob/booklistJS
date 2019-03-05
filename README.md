@@ -1,2 +1,2 @@
 # booklistJS
-represents a library
+represents a library - from Brad Traversy modern JS course
