@@ -59,7 +59,6 @@ UI.prototype.clearFields=function() {
     document.getElementById('isbn').value='';
 }
 
-
 //event listeners
 document.getElementById('book-form').addEventListener('submit', function(e){
     //get form values
